@@ -5,6 +5,6 @@ Steps taken to install SDK
 
 `cd ios/ pod install`
 
-*update App.js*
+*update App.js with SDK code*
 
 `cd .. && react-native run-ios`
